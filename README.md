@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anindya Goswami
 - 👀 I’m interested in quantitative finance
-- 🌱 I’m currently investigating data driven option pricing. An original work in this direction with two of my students will appear in IJFE in 2021.
+- 🌱 Codes related to the computations appearing in some of my research papers with some other collaborators are archived here.
 
 <!---
 agiiser/agiiser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
